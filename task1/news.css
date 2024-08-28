@@ -1,0 +1,29 @@
+body {
+    
+    background-image: url("pexels-eberhardgross-844297.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.imege {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+img {
+    
+    padding: 5px;
+    width: 350px;
+    height: 400px;
+}
+h1 {
+color:rgb(194, 47, 47);
+background-color: black;
+width: 150px;
+inline-size: 200px;
+margin: 10px;
+
+}

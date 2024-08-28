@@ -1,0 +1,60 @@
+body {
+
+    background-image: url("pexels-eberhardgross-844297.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+img {
+
+    padding: 5px;
+    width: 350px;
+    height: 400px;
+}
+
+.size {
+    color: rgb(255, 255, 255);
+    background-color: rgb(149, 53, 53);
+    height: 25px;
+    width: 80px;
+    margin: 0px 0px 20px 15px;
+    border: none;
+    border-radius: 40px;
+}
+
+.numberofitem {
+    color: rgb(255, 255, 255);
+    background-color: rgb(149, 53, 53);
+    height: 60px;
+    width: 280px;
+    padding: 8px;
+    margin: 15px;
+    border: none;
+    border-radius: 40px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+
+
+
+}
+
+.details {
+    margin: 20px;
+
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 40px;
+    background-color: rgb(149, 53, 53);
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+
+
+}
